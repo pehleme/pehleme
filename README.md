@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pehleme/pehleme/main/banner.svg" alt="Pedro Leme — Senior Software Engineer, Full Stack .NET & React" width="100%">
+<img src="https://raw.githubusercontent.com/pehleme/pehleme/main/banner.svg?v=2" alt="Pedro Leme — Senior Software Engineer, Full Stack .NET & React" width="100%">
 
 <br><br>
 
