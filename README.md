@@ -8,11 +8,10 @@
 $ cat about.md
 ```
 
-Oito anos construindo aplicações web para operações de larga escala — **vendas, logística e gestão**.
+Oito anos construindo aplicações web para operações de larga escala — **vendas, logística, pagamentos e gestão**.
 Full stack: **C#, .NET e ASP.NET Core** nas APIs, **React, Next.js e TypeScript** nas interfaces.
 
-Hoje na **act digital**. Antes, seis anos na **Levva** (2019–2025) entregando produtos para
-**Ambev · Oxiteno · Westrock · Ticket · Hidrovias · Grupo NC**.
+Arquitetura orientada a domínio, microserviços e mensageria assíncrona. Campinas, SP.
 
 <br>
 
@@ -20,46 +19,42 @@ Hoje na **act digital**. Antes, seis anos na **Levva** (2019–2025) entregando 
 $ ls ./stack
 ```
 
-**Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,nodejs,vue,angular&theme=dark" alt="C#, .NET, React, Next.js, TypeScript, JavaScript, Node.js, Vue.js, Angular">
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,azure,git,tailwind&theme=dark" alt="PostgreSQL, MongoDB, Docker, Azure, Git, Tailwind">
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=4ade80)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=4ade80)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=4ade80)
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0a0a?style=flat-square&logo=vuedotjs&logoColor=4ade80)
-![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=4ade80)
-![Storybook](https://img.shields.io/badge/Storybook-0a0a0a?style=flat-square&logo=storybook&logoColor=4ade80)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=4ade80)
-![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=flat-square&logo=dotnet&logoColor=4ade80)
-![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=4ade80)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0a0a0a?style=flat-square&logo=rabbitmq&logoColor=4ade80)
-
-**Dados & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4ade80)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0a0a0a?style=flat-square&logo=microsoftsqlserver&logoColor=4ade80)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=4ade80)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=4ade80)
-![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=4ade80)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0a0a0a?style=flat-square&logo=azuredevops&logoColor=4ade80)
+`ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `RabbitMQ` · `Azure DevOps` · `Storybook`
 
 <br>
 
 ```console
-$ ls ./cases
+$ cat experience.md
 ```
 
-| Domínio | O que construí | Stack |
-| :--- | :--- | :--- |
-| **Plataformas de gestão** | Sistemas de vendas e logística para grandes operações industriais | .NET · EF Core · Vue.js · SQL Server |
-| **Design systems** | Bibliotecas de componentes versionadas em monorepo, para consistência entre produtos | TypeScript · React · Turborepo · Storybook |
-| **APIs & microserviços** | Serviços de integração com mensageria assíncrona e contratos versionados | .NET · RabbitMQ · PostgreSQL · Docker |
-| **Microfrontends** | Composição de aplicações independentes com deploy desacoplado por time | TypeScript · Next.js · Module Federation |
-| **CI/CD** | Pipelines de build, testes e release contínuo em Azure DevOps | Azure DevOps · Docker · Jenkins |
+**act digital** — Engenheiro de Software Sênior · `nov/2025 – atual`
+Frontend do módulo de pagamentos da **Raízen**. Refatoração das telas do fluxo de pagamento,
+implementação de controles de segurança e desenvolvimento de novas funcionalidades.
 
-> O código destes projetos é proprietário dos clientes. Posso detalhar arquitetura e decisões técnicas em conversa.
+**Levva** — Engenheiro de Software Sênior · `nov/2019 – out/2025`
+Plataformas de gestão, vendas e logística para **Ambev · Oxiteno · Westrock · Ticket · Hidrovias · Grupo NC**.
+APIs de integração entre microserviços, design systems em monorepo e esteiras de CI/CD em Azure DevOps.
+
+**Lincros** — Desenvolvedor Full Stack · `abr/2019 – nov/2019`
+Sistemas para o setor de logística em .NET Core e Angular, com CQRS, microserviços e mensageria.
+
+<br>
+
+```console
+$ ls ./projects
+```
+
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| **[resify-panel](https://github.com/pehleme/resify-panel)** | Painel de gerenciamento de reservas, com testes unitários e E2E | Next.js 15 · TypeScript · Tailwind · Vitest · Playwright |
+
+> Os sistemas que construo no trabalho são proprietários dos clientes. Posso detalhar arquitetura e decisões técnicas em conversa.
 
 <br>
 
