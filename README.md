@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pehleme/pehleme/main/banner.svg" alt="Pedro Leme — Engenheiro de Software Sênior, fullstack com foco em frontend" width="100%">
+  <img src="https://raw.githubusercontent.com/pehleme/pehleme/main/banner.svg" alt="Pedro Leme — Engenheiro de Software Sênior, full stack .NET e React" width="100%">
 </div>
 
 <br>
@@ -9,9 +9,9 @@ $ cat about.md
 ```
 
 Oito anos construindo aplicações web para operações de larga escala — **vendas, logística e gestão**.
-Fullstack com foco em frontend: **React, Next.js e TypeScript** na interface, **Node.js e .NET** nas APIs.
+Full stack: **C#, .NET e ASP.NET Core** nas APIs, **React, Next.js e TypeScript** nas interfaces.
 
-Na [**Levva**](https://levva.com.br) desde 2019, hoje como Engenheiro de Software Sênior, entregando produtos para
+Hoje na **act digital**. Antes, seis anos na **Levva** (2019–2025) entregando produtos para
 **Ambev · Oxiteno · Westrock · Ticket · Hidrovias · Grupo NC**.
 
 <br>
@@ -78,4 +78,4 @@ $ cat contact.txt
 [![Email](https://img.shields.io/badge/pedro.leme98@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=4ade80)](mailto:pedro.leme98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/pehleme-0a0a0a?style=flat-square&logo=linkedin&logoColor=4ade80)](https://www.linkedin.com/in/pehleme/)
 
-<sub>📍 Campinas, SP · 🇧🇷 Português nativo · 🇺🇸 Inglês (professional working) · 🎓 ADS — IFSP</sub>
+<sub>📍 Campinas, SP · 🇧🇷 Português nativo · 🇺🇸 Inglês (intermediário) · 🎓 ADS — IFSP</sub>
